@@ -6,15 +6,13 @@
   "min_app_version": 8,
   "latest_app_version": 8,
   "apk_url": "",
-  "changelog": "• Fix bug sender\n• Optimasi performa",
+  "changelog": "• Fitur Social Media (Feed, Profil, Post)\n• Verified Badge\n• Spin Wheel\n• Optimasi performa",
   "announcement": {
     "show": false,
     "title": "",
     "message": ""
   },
   "features": {
-    "spin_wheel": true,
-    "referral_code": false,
-    "bug_scheduler": false
+    "spin_wheel": true
   }
 }
