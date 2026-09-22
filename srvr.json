@@ -5,7 +5,7 @@
   "maintenance_msg": "Server lagi maintenance cuy, coba lagi nanti ya!",
   "min_app_version": 8,
   "latest_app_version": 8,
-  "apk_url": "",
+  "apk_url": "https://www.mediafire.com/file/6w2siyj6yxu5tqm/flutter_1790110604008.apk/file",
   "changelog": "• Fitur Social Media (Feed, Profil, Post)\n• Verified Badge\n• Spin Wheel\n• Optimasi performa",
   "announcement": {
     "show": false,
