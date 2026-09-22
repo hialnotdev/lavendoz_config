@@ -1,7 +1,7 @@
 {
   "base_url": "http://panel.pterodactyl.cloud:4948",
   "backup_url": "",
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_msg": "Server lagi maintenance cuy, coba lagi nanti ya!",
   "min_app_version": 8,
   "latest_app_version": 8,
